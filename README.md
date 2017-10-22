@@ -1,2 +1,2 @@
-# wattummon-website
-Web content and activity of Wat Tummon , Phayao province , Thailand 
+# Wat Tummon-website
+Web content and activity of Tummon Temple , Phayao province , Thailand 
